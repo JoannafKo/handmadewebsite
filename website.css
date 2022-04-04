@@ -1,0 +1,139 @@
+.firsttitle{
+    color:black;
+}
+
+.summary{
+    color:red;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 50%;
+}
+
+#link{
+    color:blue;
+    position: fixed;
+    left: 44%;
+    top: 25%;
+    font-size: 170%;
+    display: flex;
+    flex-direction: column;
+    height: 70%;
+    }
+    
+.linkitems{
+    flex: 1;
+}
+
+#moregames{
+    position: absolute;
+    right: 85%;
+    top: 4%;
+}
+
+#learnmore{
+position: absolute;
+right: 1%;
+top: 4%;
+}
+
+#leftarrow{
+    position: absolute;
+    right: 77%;
+    top: 36%;
+}
+
+#rightarrow{
+    position: absolute;
+    right: 14.5%;
+    top: 49%;
+}
+
+
+#leftbar{
+    
+    position:absolute;
+    right: 9px;
+    
+}
+
+
+#rightbar{
+    position:absolute;
+    left: 0px;
+}
+
+#middle{
+    position: absolute;
+    /* align-items: center; */
+    left: 34%;
+    right: 50%;
+}
+
+#title{
+    background-image: url("title.png");
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-position: 50% 30%;
+    width: 100%;
+    height: 60px;
+}
+
+body{
+    background-image: url("background 1.png");
+}
+
+
+#options{
+    color:blue;
+    position: fixed;
+    text-align: center;
+    left: 27%;
+    top: 54%;
+    font-size: 110%;
+    display: flex;
+    flex-direction: column;
+    height: 13%;
+}
+
+
+    
+#subtitle{
+    color: rebeccapurple;
+    position: fixed;
+    left: 27%;
+    top: 30%;
+    font-size: 190%;
+    display: flex;
+    flex-direction: column;
+    height: 67%;
+}
+
+#question{
+    color:blue;
+    position: fixed;
+    left: 27%;
+    top: 39%;
+    font-size: 140%;
+    display: flex;
+    flex-direction: column;
+    height: 10%;
+}
+
+#storyboard{
+    position: absolute;
+    left: 51%;
+    right: 60%;
+    top: 27%;
+}
+
+#choice{
+    position: absolute;
+    left: 25%;
+    right: 30%;
+    top: 27%;
+}
+
+
+*{
+    font-family: 'Comic Neue', cursive;
+}
