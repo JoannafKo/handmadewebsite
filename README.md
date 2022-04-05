@@ -42,4 +42,4 @@ I did run into technical problems. Like struggling how to correctly arrange the 
 
 ## Reflection
 
-This project has been the most difficult by far. Mainly due to having to connect with files with the repo
+This project has been the most difficult by far. Mainly due to having to connect with files with the repo. Even though I was able to solve the issue, I am still confused by how I was able to complete this project in the end. That being said, I am satisfied with the end product. I enjoyed creating a preschool edutainment game, it was a very nostalgia experience.
